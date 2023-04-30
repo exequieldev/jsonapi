@@ -9,8 +9,7 @@ Materiales:
 - Fuente: <https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx> 
 
 - Sintaxis: [GET] [https://jobs.backbonesystems.io/api/zip-codes/{zip_code}](https://jobs.backbonesystems.io/api/zip-codes/%7bzip_code%7d)
-
-Solución del reto 
+ 
 
 # **Proceso de Desarrollo**
 
@@ -55,5 +54,5 @@ ZipCodeController.php
 
 Para finalizar se creó una ruta api, con la sintaxis requerida y su respectivo controlador.
 
-**Proceso de publicación de la Api**:
+# **Proceso de publicación de la Api**
 
