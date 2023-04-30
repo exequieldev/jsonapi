@@ -12,7 +12,7 @@ Materiales:
 
 Solución del reto 
 
-` `**Proceso de Desarrollo**:
+# **Proceso de Desarrollo**:
 
 Para al proceso de desarrollo se creó un repositorio en donde será almacenado el código fuente del reto.
 
