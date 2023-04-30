@@ -16,11 +16,11 @@ Solución del reto
 
 Para al proceso de desarrollo se creó un repositorio en donde será almacenado el código fuente del reto.
 
-1. Descargar fuente 
+1. **Descargar fuente**
 
 Se realizado la descarga de todo los datos necesarios para simular el entorno, donde se pudieron obtener los tipos de datos y campos, para recrear la base de datos.
 
-2. Creación de base de dato local
+**2. Creación de base de dato local**
 
 Se llevó a  cabo la creación de una base de datos en local para realizar pruebas con el motor MYSQL.
 
