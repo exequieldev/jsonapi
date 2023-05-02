@@ -44,7 +44,7 @@ Para realizar la carga de la base de datos, se creó un archivo seeder, que cont
 ZipCodeSeeder.php
 ```
 
-6. **Controlador**  [ApiZipCode/ZipCodeController.php]
+6. **Controlador**  [ApiZipCode/ZipCodeController.php](https://github.com/exequieldev/jsonapi/tree/main/app/Http/Controllers)
 
 Se creó un controlador y se almaceno en un fichero separada, en este archivo se realiza  la funcionalidad para  la búsqueda de los datos, y su representación.
 ```php
